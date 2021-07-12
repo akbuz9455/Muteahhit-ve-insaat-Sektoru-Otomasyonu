@@ -1,0 +1,32 @@
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\bin\Debug\Bilgen_Otomasyon.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\bin\Debug\Bilgen_Otomasyon.pdb
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.csprojResolveAssemblyReference.cache
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.Fatura_Bilgi.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.Form1.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.Kayit.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.Properties.Resources.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.tanimlama.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.csproj.GenerateResource.Cache
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.pdb
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.kayitformu.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.malzeme_cinsi_tanimlama.resources
+C:\Users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.odeme_takip.resources
+C:\Users\ramazan\documents\visual studio 2015\Projects\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.malzeme_alim_takibi.resources
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.exe
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.pdb
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.Fatura_Bilgi.resources
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.Form1.resources
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.Kayit.resources
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.kayitformu.resources
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.malzeme_alim_takibi.resources
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.malzeme_cinsi_tanimlama.resources
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.odeme_takip.resources
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.Properties.Resources.resources
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.tanimlama.resources
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.csproj.GenerateResource.Cache
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\bin\Debug\Bilgen_Otomasyon.exe
+C:\Users\ramazan\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\bin\Debug\Bilgen_Otomasyon.pdb
+C:\Users\Meriç\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.exe
+C:\Users\Meriç\Desktop\Bilgen_Otomasyon\Bilgen_Otomasyon\obj\Debug\Bilgen_Otomasyon.pdb
